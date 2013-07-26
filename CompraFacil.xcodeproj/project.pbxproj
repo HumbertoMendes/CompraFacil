@@ -32,6 +32,10 @@
 		BA50154017A0979B008AA36F /* CFFluxControl.m in Sources */ = {isa = PBXBuildFile; fileRef = BA50153F17A0979B008AA36F /* CFFluxControl.m */; };
 		BAC90BA317A0AF1C008D4D25 /* CFProdutosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BAC90BA117A0AF1C008D4D25 /* CFProdutosViewController.m */; };
 		BAC90BA417A0AF1C008D4D25 /* CFProdutosViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BAC90BA217A0AF1C008D4D25 /* CFProdutosViewController.xib */; };
+		BAED130D17A33E8A00A4521F /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = BAED130C17A33E8A00A4521F /* icon.png */; };
+		BAED131117A3402600A4521F /* quick_time.png in Resources */ = {isa = PBXBuildFile; fileRef = BAED130E17A3402600A4521F /* quick_time.png */; };
+		BAED131217A3402600A4521F /* safari_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = BAED130F17A3402600A4521F /* safari_icon.png */; };
+		BAED131317A3402600A4521F /* time-machine-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = BAED131017A3402600A4521F /* time-machine-icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +77,10 @@
 		BAC90BA017A0AF1C008D4D25 /* CFProdutosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CFProdutosViewController.h; sourceTree = "<group>"; };
 		BAC90BA117A0AF1C008D4D25 /* CFProdutosViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CFProdutosViewController.m; sourceTree = "<group>"; };
 		BAC90BA217A0AF1C008D4D25 /* CFProdutosViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CFProdutosViewController.xib; sourceTree = "<group>"; };
+		BAED130C17A33E8A00A4521F /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		BAED130E17A3402600A4521F /* quick_time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = quick_time.png; sourceTree = "<group>"; };
+		BAED130F17A3402600A4521F /* safari_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = safari_icon.png; sourceTree = "<group>"; };
+		BAED131017A3402600A4521F /* time-machine-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "time-machine-icon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -154,6 +162,10 @@
 		A94111F317919EC4009773ED /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BAED130E17A3402600A4521F /* quick_time.png */,
+				BAED130F17A3402600A4521F /* safari_icon.png */,
+				BAED131017A3402600A4521F /* time-machine-icon.png */,
+				BAED130C17A33E8A00A4521F /* icon.png */,
 				A94111F417919EC4009773ED /* CompraFacil-Info.plist */,
 				A94111F517919EC4009773ED /* InfoPlist.strings */,
 				A94111F817919EC4009773ED /* main.m */,
@@ -228,6 +240,10 @@
 				A9268E5C179B3F790065158E /* CFListView.xib in Resources */,
 				A9268E67179B48120065158E /* CFEstabelecimentosView.xib in Resources */,
 				BAC90BA417A0AF1C008D4D25 /* CFProdutosViewController.xib in Resources */,
+				BAED130D17A33E8A00A4521F /* icon.png in Resources */,
+				BAED131117A3402600A4521F /* quick_time.png in Resources */,
+				BAED131217A3402600A4521F /* safari_icon.png in Resources */,
+				BAED131317A3402600A4521F /* time-machine-icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
